@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/bckgrnd.jpg"
+background-img: "../img/bck4.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -114,7 +114,7 @@ events:
     description: "Six years later, still pushing boundaries"
   - image: "/img/timeline/baracktocat.jpg"
     date: "Late 2010"
-    description: "Discovered coding"
+    description: "Started learning to code"
 
 # First image of the Timeline
 
