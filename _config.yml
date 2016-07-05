@@ -92,7 +92,7 @@ paginate: 5
 ##email-share: True
 fb-share: True
 twitter-share: True
-##linkedin-share: True
+linkedin-share: True
 ##reddit-share: True
 google-plus-share: True
 ##tumblr-share: True
@@ -110,11 +110,11 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "Today"
-    description: "Six years later, still pushing boundaries"
-  - image: "/img/timeline/baracktocat.jpg"
     date: "Late 2010"
     description: "Started learning to code"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "2016"
+    description: "Six years later, after many hurdles, still going"
 
 # First image of the Timeline
 
