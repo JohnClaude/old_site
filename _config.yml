@@ -109,16 +109,16 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/img1.png"
     date: "Late 2010"
     description: "Started learning to code"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/img2.png"
     date: "2016"
     description: "Six years later, after many hurdles, still going"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/img3.png"
 
 ###########
 # Contact #
