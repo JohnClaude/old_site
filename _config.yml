@@ -1,4 +1,4 @@
-
+ 
 # Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
@@ -58,6 +58,8 @@ lines: # You can add HTML Tags in the Text
   - text: "Of all sad word of mouth or pen, the saddest are these: it might have been.<br>-John Greenleaf Whittier"
   - text: "Life was meant for good friends and great adventures."
   - text: "Don't let schooling interfere with your education."
+  - text: "You can never cross the ocean unless you have the courage to lose sight of the
+          shore. —Christopher Columbus"
 me-img: "/img/m5.png"
 
 ##############################
